@@ -31,7 +31,7 @@ I started by logining into OsTicket.
 />
 </p>
 <p>
-I then went to tickets tab. I prioritized Karen's ticket due to Organization defined Policies/ SLA, Preceived business impact and ticket age.
+I then went to tickets tab. There are 2 open tickets. I prioritized Karen's ticket due to Organization defined Policies/ SLA, Preceived business impact and ticket age.
 </p>
 <br />
 
@@ -42,7 +42,7 @@ I then went to tickets tab. I prioritized Karen's ticket due to Organization def
 />
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Based on Karen's post. I assigned the ticket to myself, updated the SLA to C, and changed the help topic to Personal Computer Issue from Business Critical Outage  
 </p>
 <br />
 

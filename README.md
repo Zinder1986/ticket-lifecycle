@@ -31,12 +31,13 @@ I started by logining into OsTicket.
 />
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+I then went to tickets tab. I prioritized Karen's ticket due to Organization defined Policies/ SLA, Preceived business impact and ticket age.
 </p>
 <br />
 
 <p>
-<img <img width="1068" height="587" alt="image" src="https://github.com/user-attachments/assets/ed498772-ffe2-4d58-8639-968053fe377b" />
+<img <img width="1062" height="574" alt="image" src="https://github.com/user-attachments/assets/6528b8b6-faf2-46b2-a498-37669b67d0b2" />
+ />
  />
 />
 </p>

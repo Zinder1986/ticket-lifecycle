@@ -3,7 +3,7 @@
 </p>
 
 <h1>osTicket - Ticket Lifecycle: Intake Through Resolution</h1>
-This tutorial outlines the lifecycle of a ticket from intake to resolution within the open-source help desk ticketing system osTicket, with step by step instructions including LCD diagnostics and replacement of Dell Latitude E7470 Laptop Screen.<br />
+This tutorial outlines the lifecycle of a ticket from intake to resolution within the open-source help desk ticketing system osTicket, with step-by-step instructions including LCD diagnostics and replacement of the Dell Latitude E7470 Laptop Screen.<br />
 
 <h2>Environments Technologies and Applications Used</h2>
 

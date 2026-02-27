@@ -31,7 +31,7 @@ I started by logining into OsTicket.
 />
 </p>
 <p>
-I then went to tickets tab. There are 2 open tickets. I prioritized Karen's ticket due to Organization defined Policies/ SLA, Preceived business impact and ticket age.
+I then went to tickets tab. There are 2 open tickets. I began triage by prioritizing Karen's ticket due to Organization defined Policies/ SLA, Preceived business impact and ticket age.
 </p>
 <br />
 
@@ -42,7 +42,7 @@ I then went to tickets tab. There are 2 open tickets. I prioritized Karen's tick
 />
 </p>
 <p>
-I began triage starting with Karen's post. I assigned the ticket to myself, updated the SLA to C, and changed the help topic to Personal Computer Issue from Business Critical Outage  
+Based on Karen's post. I assigned the ticket to myself, updated the SLA to C, and changed the help topic to Personal Computer Issue from Business Critical Outage  
 </p>
 <br />
 

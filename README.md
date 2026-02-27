@@ -26,13 +26,13 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <h2>Lifecycle Stages</h2>
 
-I started by logining into OsTicket.
+I started by logging into OsTicket.
 <p>
 <img <img width="1909" height="1038" alt="image" src="https://github.com/user-attachments/assets/d900bb1d-82da-47d7-aaca-3a7c1dc5f960" />
 />
 </p>
 <p>
-I then went to tickets tab. There are 2 open tickets. I began triage by prioritizing Karen's ticket due to Organization defined Policies/ SLA, Preceived business impact and ticket age.
+I then went to the tickets tab. There are 2 open tickets. I began triage by prioritizing Karen's ticket due to Organization-defined Policies/ SLA, perceived business impact, and ticket age.
 </p>
 <br />
 

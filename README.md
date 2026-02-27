@@ -69,7 +69,7 @@ Below is the step-by-step diagnostic procedure I used to determine whether the s
 />
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+To begin the repair, I had to determine the make and model of the laptop. After I  checked if we had replacement LCDs available or if I had to order them. Lucky we had replacements on site.
 </p>
 <br />
 

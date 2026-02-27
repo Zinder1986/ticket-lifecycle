@@ -78,7 +78,7 @@ To begin the repair, I had to determine the make and model of the laptop. After 
 />
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Below is step-by-step instructions on locating where the make and model sticker is located and the box where I found the replacement laptop with the LCD.
 </p>
 <br />
 

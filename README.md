@@ -29,6 +29,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <h2>Lifecycle Stages</h2>
 
+I started by logining into OsTicket.
 <p>
 <img <img width="1909" height="1038" alt="image" src="https://github.com/user-attachments/assets/d900bb1d-82da-47d7-aaca-3a7c1dc5f960" />
 />

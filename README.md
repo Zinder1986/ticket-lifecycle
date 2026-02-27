@@ -42,7 +42,7 @@ I then went to tickets tab. There are 2 open tickets. I began triage by prioriti
 />
 </p>
 <p>
-Based on Karen's post. I assigned the ticket to myself, updated the SLA to C, and changed the help topic to Personal Computer Issue from Business Critical Outage  
+Based on Karen's post. I assigned the ticket to myself, updated the SLA to C, and changed the help topic to Personal Computer Issues from Business Critical Outage  
 </p>
 <br />
 
